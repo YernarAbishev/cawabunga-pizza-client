@@ -1,0 +1,10 @@
+export const HOME_PAGE = "/";
+export const PIZZAS_PAGE = "/pizzas";
+export const COMBOS_PAGE = "/combos";
+export const DRINKS_PAGE = "/drinks";
+export const MEALS_PAGE = "/meals";
+export const SAUCES_PAGE = "/sauces";
+export const OTHERS_PAGE = "/others";
+export const CART_PAGE = "/cart";
+export const CHECKOUT_PAGE = "/checkout";
+export const SUCCESS_PAGE = "/success";
